@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  vipbot:
+    build: .
+    container_name: vipbot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      # Persist the sqlite database
+      - ./users.db:/app/users.db
+      # Persist the logs
+      - ./bot.log:/app/bot.log

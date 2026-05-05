@@ -1,0 +1,81 @@
+2026-05-05 10:19:56,816 - bot - INFO - Started dummy web server on port 8080
+2026-05-05 10:19:56,816 - bot - INFO - Started dummy web server on port 8080
+2026-05-05 10:19:56,905 - bot - ERROR - Database initialization failed: could not translate host name "db.jydomakebbjeujwjmauv.supabase.co" to address: Name or service not known
+
+2026-05-05 10:19:56,905 - bot - ERROR - Database initialization failed: could not translate host name "db.jydomakebbjeujwjmauv.supabase.co" to address: Name or service not known
+
+2026-05-05 10:19:56,906 - bot - ERROR - Database initialization failed: could not translate host name "db.jydomakebbjeujwjmauv.supabase.co" to address: Name or service not known
+
+2026-05-05 10:19:56,906 - bot - ERROR - Database initialization failed: could not translate host name "db.jydomakebbjeujwjmauv.supabase.co" to address: Name or service not known
+
+2026-05-05 10:20:11,631 - bot - INFO - Started dummy web server on port 8080
+2026-05-05 10:20:11,631 - bot - INFO - Started dummy web server on port 8080
+2026-05-05 10:20:11,655 - bot - ERROR - Database initialization failed: could not translate host name "db.jydomakebbjeujwjmauv.supabase.co" to address: Name or service not known
+
+2026-05-05 10:20:11,655 - bot - ERROR - Database initialization failed: could not translate host name "db.jydomakebbjeujwjmauv.supabase.co" to address: Name or service not known
+
+2026-05-05 10:20:11,656 - bot - ERROR - Database initialization failed: could not translate host name "db.jydomakebbjeujwjmauv.supabase.co" to address: Name or service not known
+
+2026-05-05 10:20:11,656 - bot - ERROR - Database initialization failed: could not translate host name "db.jydomakebbjeujwjmauv.supabase.co" to address: Name or service not known
+
+2026-05-05 10:26:24,425 - bot - INFO - Started dummy web server on port 8080
+2026-05-05 10:26:24,425 - bot - INFO - Started dummy web server on port 8080
+2026-05-05 10:26:25,833 - bot - INFO - Database initialized successfully
+2026-05-05 10:26:25,833 - bot - INFO - Database initialized successfully
+2026-05-05 10:26:25,834 - bot - INFO - Database verified successfully
+2026-05-05 10:26:25,834 - bot - INFO - Database verified successfully
+2026-05-05 10:26:26,618 - bot - ERROR - Bot failed to start: 'NoneType' object has no attribute 'run_daily'
+2026-05-05 10:26:26,618 - bot - ERROR - Bot failed to start: 'NoneType' object has no attribute 'run_daily'
+2026-05-05 10:27:29,993 - bot - INFO - Started dummy web server on port 8080
+2026-05-05 10:27:29,993 - bot - INFO - Started dummy web server on port 8080
+2026-05-05 10:27:31,179 - bot - INFO - Database initialized successfully
+2026-05-05 10:27:31,179 - bot - INFO - Database initialized successfully
+2026-05-05 10:27:31,179 - bot - INFO - Database verified successfully
+2026-05-05 10:27:31,179 - bot - INFO - Database verified successfully
+2026-05-05 10:27:31,841 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-05 10:27:32,384 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getMe "HTTP/1.1 200 OK"
+2026-05-05 10:27:32,494 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/deleteWebhook "HTTP/1.1 200 OK"
+2026-05-05 10:27:32,497 - apscheduler.scheduler - INFO - Added job "daily_expiry_check" to job store "default"
+2026-05-05 10:27:32,497 - apscheduler.scheduler - INFO - Scheduler started
+2026-05-05 10:27:32,497 - telegram.ext.Application - INFO - Application started
+2026-05-05 10:30:27,127 - bot - INFO - Started dummy web server on port 8080
+2026-05-05 10:30:27,127 - bot - INFO - Started dummy web server on port 8080
+2026-05-05 10:30:28,419 - bot - INFO - Database initialized successfully
+2026-05-05 10:30:28,419 - bot - INFO - Database initialized successfully
+2026-05-05 10:30:28,420 - bot - INFO - Database verified successfully
+2026-05-05 10:30:28,420 - bot - INFO - Database verified successfully
+2026-05-05 10:30:29,045 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-05 10:30:29,046 - bot - INFO - Bot is starting...
+2026-05-05 10:30:29,046 - bot - INFO - Bot is starting...
+2026-05-05 10:30:29,620 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getMe "HTTP/1.1 200 OK"
+2026-05-05 10:30:29,731 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/deleteWebhook "HTTP/1.1 200 OK"
+2026-05-05 10:30:29,735 - apscheduler.scheduler - INFO - Added job "daily_expiry_check" to job store "default"
+2026-05-05 10:30:29,735 - apscheduler.scheduler - INFO - Scheduler started
+2026-05-05 10:30:29,736 - telegram.ext.Application - INFO - Application started
+2026-05-05 10:30:40,064 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:30:50,175 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:30:50,942 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:30:52,196 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/sendMessage "HTTP/1.1 200 OK"
+2026-05-05 10:31:01,906 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:31:12,016 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:31:22,125 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:31:32,239 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:31:42,354 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:31:52,468 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:32:02,580 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:32:12,691 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:32:22,811 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:32:32,931 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:32:43,046 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:32:53,166 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:33:03,279 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:33:13,412 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:33:23,522 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:33:33,632 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:33:43,747 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:33:53,860 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:34:03,974 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:34:13,318 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8438009971:AAGkUGAu-6u5QMkLxkWPM012124r1Otdpjk/getUpdates "HTTP/1.1 200 OK"
+2026-05-05 10:34:13,320 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2026-05-05 10:34:13,321 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2026-05-05 10:34:13,337 - telegram.ext.Application - INFO - Application.stop() complete
